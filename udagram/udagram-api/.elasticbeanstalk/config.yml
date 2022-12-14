@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: Udagramapi-env-1
+    environment: udagram-api-dev
 environment-defaults:
-  Udagramapi-env-1:
+  udagram-api-dev:
     branch: null
     repository: null
 global:
