@@ -1,9 +1,0 @@
-export POSTGRES_HOST=nam-db.cozrozyj0pqs.us-east-1.rds.amazonaws.com
-export AWS_BUCKET=arn:aws:s3:::nam-my-deploy-app
-export POSTGRES_USERNAME=postgres
-export POSTGRES_PASSWORD=Nam205806
-export POSTGRES_DB=postgres
-export AWS_REGION=us-east-1
-export AWS_PROFILE=namld
-export JWT_SECRET=mysecretstring
-export URL=http://localhost:8100
