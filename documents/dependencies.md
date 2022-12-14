@@ -1,8 +1,7 @@
 
-## App Dependences :
-
-### udagram-api:
-  "dependencies": {
+## App dependences :
+### udagram-api
+  `dependencies`
     "@types/bcryptjs": "2.4.2",
     "@types/jsonwebtoken": "^8.3.2",
     "aws-sdk": "^2.429.0",
@@ -17,8 +16,7 @@
     "reflect-metadata": "^0.1.13",
     "sequelize": "^6.5.0",
     "sequelize-typescript": "^2.1.3"
-  },
-  "devDependencies": {
+  `devDependencies`
     "@types/bluebird": "^3.5.26",
     "@types/cors": "^2.8.6",
     "@types/express": "^4.16.1",
@@ -34,11 +32,9 @@
     "mocha": "^6.1.4",
     "ts-node-dev": "^1.0.0-pre.32",
     "typescript": "^4.2.3"
-  }
 
-### udagram-frontend:
-
-  "dependencies": {
+### udagram-frontend
+  `dependencies`
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
     "@angular/forms": "^8.2.14",
@@ -53,8 +49,7 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.5.4",
     "zone.js": "~0.9.1"
-  },
-  "devDependencies": {
+  `devDependencies`
     "@angular-devkit/architect": "~0.12.3",
     "@angular-devkit/build-angular": "^0.803.24",
     "@angular-devkit/core": "~7.2.3",
@@ -81,4 +76,3 @@
     "ts-node": "~8.0.0",
     "tslint": "~5.12.0",
     "typescript": "^3.5.3"
-  },
