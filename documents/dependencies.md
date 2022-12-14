@@ -2,7 +2,8 @@
 ## App dependences :
 ### udagram-api
   `dependencies`
-    "@types/bcryptjs": "2.4.2",
+  
+    "@types/bcryptjs": "2.4.2"
     "@types/jsonwebtoken": "^8.3.2",
     "aws-sdk": "^2.429.0",
     "bcryptjs": "2.4.3",
@@ -16,7 +17,9 @@
     "reflect-metadata": "^0.1.13",
     "sequelize": "^6.5.0",
     "sequelize-typescript": "^2.1.3"
+    
   `devDependencies`
+  
     "@types/bluebird": "^3.5.26",
     "@types/cors": "^2.8.6",
     "@types/express": "^4.16.1",
@@ -34,7 +37,9 @@
     "typescript": "^4.2.3"
 
 ### udagram-frontend
+
   `dependencies`
+  
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
     "@angular/forms": "^8.2.14",
@@ -49,7 +54,9 @@
     "core-js": "^2.5.4",
     "rxjs": "~6.5.4",
     "zone.js": "~0.9.1"
+    
   `devDependencies`
+  
     "@angular-devkit/architect": "~0.12.3",
     "@angular-devkit/build-angular": "^0.803.24",
     "@angular-devkit/core": "~7.2.3",
